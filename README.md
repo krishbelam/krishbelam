@@ -80,7 +80,7 @@ I enjoy understanding systems from the ground up — from **API design and messa
 
 ## 🤝 Let's Connect
 
-* 💼 LinkedIn — *add your LinkedIn profile*
+* 💼 LinkedIn — [@Krishna B](https://www.linkedin.com/in/krishna-b-b41366244/)
 * 🐙 GitHub — [@krishbelam](https://github.com/krishbelam)
 
 ---
